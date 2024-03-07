@@ -1,5 +1,6 @@
 #virtual environment 
 venv/*
+data/*
 .idea/*
 
 # R-related stuff
