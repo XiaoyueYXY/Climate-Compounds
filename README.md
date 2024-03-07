@@ -3,8 +3,10 @@ This repository contains codes for the study *From “Climate Change” to “Cl
 ## Scripts
 **1_read_newdata**: codes to read the news articles downloaded from NexisUni and Factiva.
 
-**2_preprocessing**: steps to merge old and new data together, remove duplicates, validate the manually-annotated data, and identify potential labels inductively.
+**2_data_preperation**: steps to merge old and new data together, remove duplicates, and validate the manually-annotated data.
 
 **3_SML**: codes to train a classifier based on the manually annotated data to keep only climate change-related articles.
 
-**4_descriptive_analysis**: codes to generate descriptive results for the RQs.
+**4_Inductive label identification**: codes identify potential labels inductively.
+
+**5_descriptive_analysis**: codes to generate descriptive results for the RQs.
