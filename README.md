@@ -5,7 +5,7 @@ This repository contains codes for the study *From “Climate Change” to “Cl
 
 **2_data_preperation**: steps to merge old and new data together, remove duplicates, and validate the manually-annotated data.
 
-**3_SML**: codes to train a classifier based on the manually annotated data to keep only climate change-related articles.
+**3_fewshot_classification**: codes to train a few-shot classifier based on the manually annotated data to keep only climate change-related articles.
 
 **4_Inductive label identification**: codes identify potential labels inductively.
 
