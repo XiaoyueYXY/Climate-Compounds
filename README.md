@@ -1,5 +1,5 @@
 # Climate-Compounds
-This repository contains codes for the study *From “Climate Change” to “Climate Crisis”? Changing Labels in Global Coverage of Climate Change between 1996-2022*
+This repository contains codes for the study *From “Climate Change” to “Climate Crisis”? Changing Labels in Global Coverage of Climate Change between 2006-2022*
 ## Scripts
 **1_read_newdata**: codes to read the news articles downloaded from NexisUni and Factiva.
 
