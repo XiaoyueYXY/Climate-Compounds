@@ -11,4 +11,4 @@ This repository contains codes for the study *From “Climate Change” to “Cl
 
 **5_descriptive_analysis**: Python code to generate descriptive results for the RQs.
 
-**6_time series**: R code to conduct an additional interrupted time series analysis for RQ2.
+**6_time series**: R code to conduct an additional interrupted time series analysis for RQ3.
